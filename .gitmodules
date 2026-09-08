@@ -1,0 +1,584 @@
+[submodule "ai1-adversarial"]
+	path = ai1-adversarial
+	url = https://github.com/5h4d0wn1k/ai1-adversarial.git
+
+[submodule "ai2-model-poison"]
+	path = ai2-model-poison
+	url = https://github.com/5h4d0wn1k/ai2-model-poison.git
+
+[submodule "ai3-data-exfil"]
+	path = ai3-data-exfil
+	url = https://github.com/5h4d0wn1k/ai3-data-exfil.git
+
+[submodule "ai4-nn-backdoor"]
+	path = ai4-nn-backdoor
+	url = https://github.com/5h4d0wn1k/ai4-nn-backdoor.git
+
+[submodule "ai5-model-extract"]
+	path = ai5-model-extract
+	url = https://github.com/5h4d0wn1k/ai5-model-extract.git
+
+[submodule "ai6-fl-attack"]
+	path = ai6-fl-attack
+	url = https://github.com/5h4d0wn1k/ai6-fl-attack.git
+
+[submodule "ai7-model-robustness"]
+	path = ai7-model-robustness
+	url = https://github.com/5h4d0wn1k/ai7-model-robustness.git
+
+[submodule "ai8-ai-code-audit"]
+	path = ai8-ai-code-audit
+	url = https://github.com/5h4d0wn1k/ai8-ai-code-audit.git
+
+[submodule "c1-hash-crack"]
+	path = c1-hash-crack
+	url = https://github.com/5h4d0wn1k/c1-hash-crack.git
+
+[submodule "c2-rsa-attack"]
+	path = c2-rsa-attack
+	url = https://github.com/5h4d0wn1k/c2-rsa-attack.git
+
+[submodule "c3-aes-attacks"]
+	path = c3-aes-attacks
+	url = https://github.com/5h4d0wn1k/c3-aes-attacks.git
+
+[submodule "c4-cipher-challenges"]
+	path = c4-cipher-challenges
+	url = https://github.com/5h4d0wn1k/c4-cipher-challenges.git
+
+[submodule "c5-blockchain"]
+	path = c5-blockchain
+	url = https://github.com/5h4d0wn1k/c5-blockchain.git
+
+[submodule "c6-pass-hash"]
+	path = c6-pass-hash
+	url = https://github.com/5h4d0wn1k/c6-pass-hash.git
+
+[submodule "c7-wire-proto"]
+	path = c7-wire-proto
+	url = https://github.com/5h4d0wn1k/c7-wire-proto.git
+
+[submodule "c8-dh-demo"]
+	path = c8-dh-demo
+	url = https://github.com/5h4d0wn1k/c8-dh-demo.git
+
+[submodule "cl1-aws-s3"]
+	path = cl1-aws-s3
+	url = https://github.com/5h4d0wn1k/cl1-aws-s3.git
+
+[submodule "cl2-gcp-bucket"]
+	path = cl2-gcp-bucket
+	url = https://github.com/5h4d0wn1k/cl2-gcp-bucket.git
+
+[submodule "cl3-docker-leak"]
+	path = cl3-docker-leak
+	url = https://github.com/5h4d0wn1k/cl3-docker-leak.git
+
+[submodule "cl4-k8s-secrets"]
+	path = cl4-k8s-secrets
+	url = https://github.com/5h4d0wn1k/cl4-k8s-secrets.git
+
+[submodule "cl5-terraform-audit"]
+	path = cl5-terraform-audit
+	url = https://github.com/5h4d0wn1k/cl5-terraform-audit.git
+
+[submodule "cl6-azure-vault"]
+	path = cl6-azure-vault
+	url = https://github.com/5h4d0wn1k/cl6-azure-vault.git
+
+[submodule "cl7-cloud-forensics"]
+	path = cl7-cloud-forensics
+	url = https://github.com/5h4d0wn1k/cl7-cloud-forensics.git
+
+[submodule "cl8-cspm"]
+	path = cl8-cspm
+	url = https://github.com/5h4d0wn1k/cl8-cspm.git
+
+[submodule "d1-memory-forensics"]
+	path = d1-memory-forensics
+	url = https://github.com/5h4d0wn1k/d1-memory-forensics.git
+
+[submodule "d2-disk-analyzer"]
+	path = d2-disk-analyzer
+	url = https://github.com/5h4d0wn1k/d2-disk-analyzer.git
+
+[submodule "d3-log-analyzer"]
+	path = d3-log-analyzer
+	url = https://github.com/5h4d0wn1k/d3-log-analyzer.git
+
+[submodule "d4-net-forensics"]
+	path = d4-net-forensics
+	url = https://github.com/5h4d0wn1k/d4-net-forensics.git
+
+[submodule "d5-registry-analyze"]
+	path = d5-registry-analyze
+	url = https://github.com/5h4d0wn1k/d5-registry-analyze.git
+
+[submodule "d6-browser-forensics"]
+	path = d6-browser-forensics
+	url = https://github.com/5h4d0wn1k/d6-browser-forensics.git
+
+[submodule "d7-email-header"]
+	path = d7-email-header
+	url = https://github.com/5h4d0wn1k/d7-email-header.git
+
+[submodule "d8-timeline-gen"]
+	path = d8-timeline-gen
+	url = https://github.com/5h4d0wn1k/d8-timeline-gen.git
+
+[submodule "f1-agentic-redteam"]
+	path = f1-agentic-redteam
+	url = https://github.com/5h4d0wn1k/f1-agentic-redteam.git
+
+[submodule "f10-deception-grid"]
+	path = f10-deception-grid
+	url = https://github.com/5h4d0wn1k/f10-deception-grid.git
+
+[submodule "f2-nids-robustness"]
+	path = f2-nids-robustness
+	url = https://github.com/5h4d0wn1k/f2-nids-robustness.git
+
+[submodule "f3-mcp-honeypot"]
+	path = f3-mcp-honeypot
+	url = https://github.com/5h4d0wn1k/f3-mcp-honeypot.git
+
+[submodule "f4-multichannel-detector"]
+	path = f4-multichannel-detector
+	url = https://github.com/5h4d0wn1k/f4-multichannel-detector.git
+
+[submodule "f5-pq-scanner"]
+	path = f5-pq-scanner
+	url = https://github.com/5h4d0wn1k/f5-pq-scanner.git
+
+[submodule "f6-firmware-audit"]
+	path = f6-firmware-audit
+	url = https://github.com/5h4d0wn1k/f6-firmware-audit.git
+
+[submodule "f7-edr-auditor"]
+	path = f7-edr-auditor
+	url = https://github.com/5h4d0wn1k/f7-edr-auditor.git
+
+[submodule "f8-ztr-sandbox"]
+	path = f8-ztr-sandbox
+	url = https://github.com/5h4d0wn1k/f8-ztr-sandbox.git
+
+[submodule "f9-supply-chain-gate"]
+	path = f9-supply-chain-gate
+	url = https://github.com/5h4d0wn1k/f9-supply-chain-gate.git
+
+[submodule "h1-deauth-oled"]
+	path = h1-deauth-oled
+	url = https://github.com/5h4d0wn1k/h1-deauth-oled.git
+
+[submodule "h10-usb-hid"]
+	path = h10-usb-hid
+	url = https://github.com/5h4d0wn1k/h10-usb-hid.git
+
+[submodule "h11-gps-spoof"]
+	path = h11-gps-spoof
+	url = https://github.com/5h4d0wn1k/h11-gps-spoof.git
+
+[submodule "h12-drone-ctrl"]
+	path = h12-drone-ctrl
+	url = https://github.com/5h4d0wn1k/h12-drone-ctrl.git
+
+[submodule "h13-wifi-jammer"]
+	path = h13-wifi-jammer
+	url = https://github.com/5h4d0wn1k/h13-wifi-jammer.git
+
+[submodule "h14-lora-attack"]
+	path = h14-lora-attack
+	url = https://github.com/5h4d0wn1k/h14-lora-attack.git
+
+[submodule "h15-sdr-capture"]
+	path = h15-sdr-capture
+	url = https://github.com/5h4d0wn1k/h15-sdr-capture.git
+
+[submodule "h2-ble-tracker"]
+	path = h2-ble-tracker
+	url = https://github.com/5h4d0wn1k/h2-ble-tracker.git
+
+[submodule "h3-zigbee-sniffer"]
+	path = h3-zigbee-sniffer
+	url = https://github.com/5h4d0wn1k/h3-zigbee-sniffer.git
+
+[submodule "h4-mousejack"]
+	path = h4-mousejack
+	url = https://github.com/5h4d0wn1k/h4-mousejack.git
+
+[submodule "h5-433-replay"]
+	path = h5-433-replay
+	url = https://github.com/5h4d0wn1k/h5-433-replay.git
+
+[submodule "h6-spectrum"]
+	path = h6-spectrum
+	url = https://github.com/5h4d0wn1k/h6-spectrum.git
+
+[submodule "h7-evil-twin-ap"]
+	path = h7-evil-twin-ap
+	url = https://github.com/5h4d0wn1k/h7-evil-twin-ap.git
+
+[submodule "h8-rfid-spoofer"]
+	path = h8-rfid-spoofer
+	url = https://github.com/5h4d0wn1k/h8-rfid-spoofer.git
+
+[submodule "h9-ir-blaster"]
+	path = h9-ir-blaster
+	url = https://github.com/5h4d0wn1k/h9-ir-blaster.git
+
+[submodule "i1-firmware-extract"]
+	path = i1-firmware-extract
+	url = https://github.com/5h4d0wn1k/i1-firmware-extract.git
+
+[submodule "i2-mqtt-exploit"]
+	path = i2-mqtt-exploit
+	url = https://github.com/5h4d0wn1k/i2-mqtt-exploit.git
+
+[submodule "i3-zigbee-fuzz"]
+	path = i3-zigbee-fuzz
+	url = https://github.com/5h4d0wn1k/i3-zigbee-fuzz.git
+
+[submodule "i4-upnp-exploit"]
+	path = i4-upnp-exploit
+	url = https://github.com/5h4d0wn1k/i4-upnp-exploit.git
+
+[submodule "i5-modbus-scan"]
+	path = i5-modbus-scan
+	url = https://github.com/5h4d0wn1k/i5-modbus-scan.git
+
+[submodule "i6-coap-replay"]
+	path = i6-coap-replay
+	url = https://github.com/5h4d0wn1k/i6-coap-replay.git
+
+[submodule "i7-can-bus"]
+	path = i7-can-bus
+	url = https://github.com/5h4d0wn1k/i7-can-bus.git
+
+[submodule "i8-ble-gatt"]
+	path = i8-ble-gatt
+	url = https://github.com/5h4d0wn1k/i8-ble-gatt.git
+
+[submodule "m1-static-analyzer"]
+	path = m1-static-analyzer
+	url = https://github.com/5h4d0wn1k/m1-static-analyzer.git
+
+[submodule "m10-bin-diff"]
+	path = m10-bin-diff
+	url = https://github.com/5h4d0wn1k/m10-bin-diff.git
+
+[submodule "m2-dynamic-sandbox"]
+	path = m2-dynamic-sandbox
+	url = https://github.com/5h4d0wn1k/m2-dynamic-sandbox.git
+
+[submodule "m3-deobfuscator"]
+	path = m3-deobfuscator
+	url = https://github.com/5h4d0wn1k/m3-deobfuscator.git
+
+[submodule "m4-adb-exploit"]
+	path = m4-adb-exploit
+	url = https://github.com/5h4d0wn1k/m4-adb-exploit.git
+
+[submodule "m4-yara-gen"]
+	path = m4-yara-gen
+	url = https://github.com/5h4d0wn1k/m4-yara-gen.git
+
+[submodule "m5-frida-gen"]
+	path = m5-frida-gen
+	url = https://github.com/5h4d0wn1k/m5-frida-gen.git
+
+[submodule "m6-backup-extract"]
+	path = m6-backup-extract
+	url = https://github.com/5h4d0wn1k/m6-backup-extract.git
+
+[submodule "m7-pe-analyzer"]
+	path = m7-pe-analyzer
+	url = https://github.com/5h4d0wn1k/m7-pe-analyzer.git
+
+[submodule "m8-elf-analyzer"]
+	path = m8-elf-analyzer
+	url = https://github.com/5h4d0wn1k/m8-elf-analyzer.git
+
+[submodule "m9-shellcode-encoder"]
+	path = m9-shellcode-encoder
+	url = https://github.com/5h4d0wn1k/m9-shellcode-encoder.git
+
+[submodule "mo1-apk-analyzer"]
+	path = mo1-apk-analyzer
+	url = https://github.com/5h4d0wn1k/mo1-apk-analyzer.git
+
+[submodule "mo2-ios-binary"]
+	path = mo2-ios-binary
+	url = https://github.com/5h4d0wn1k/mo2-ios-binary.git
+
+[submodule "mo3-cert-pin"]
+	path = mo3-cert-pin
+	url = https://github.com/5h4d0wn1k/mo3-cert-pin.git
+
+[submodule "mo4-android-scan"]
+	path = mo4-android-scan
+	url = https://github.com/5h4d0wn1k/mo4-android-scan.git
+
+[submodule "mo5-ios-assess"]
+	path = mo5-ios-assess
+	url = https://github.com/5h4d0wn1k/mo5-ios-assess.git
+
+[submodule "mo6-mobile-malware"]
+	path = mo6-mobile-malware
+	url = https://github.com/5h4d0wn1k/mo6-mobile-malware.git
+
+[submodule "n1-arp-guard"]
+	path = n1-arp-guard
+	url = https://github.com/5h4d0wn1k/n1-arp-guard.git
+
+[submodule "n10-netmap-scan"]
+	path = n10-netmap-scan
+	url = https://github.com/5h4d0wn1k/n10-netmap-scan.git
+
+[submodule "n11-proto-fuzz"]
+	path = n11-proto-fuzz
+	url = https://github.com/5h4d0wn1k/n11-proto-fuzz.git
+
+[submodule "n12-traffic-redirect"]
+	path = n12-traffic-redirect
+	url = https://github.com/5h4d0wn1k/n12-traffic-redirect.git
+
+[submodule "n2-dhcp-starve"]
+	path = n2-dhcp-starve
+	url = https://github.com/5h4d0wn1k/n2-dhcp-starve.git
+
+[submodule "n3-dns-spoof"]
+	path = n3-dns-spoof
+	url = https://github.com/5h4d0wn1k/n3-dns-spoof.git
+
+[submodule "n4-port-knock"]
+	path = n4-port-knock
+	url = https://github.com/5h4d0wn1k/n4-port-knock.git
+
+[submodule "n5-vlan-hop"]
+	path = n5-vlan-hop
+	url = https://github.com/5h4d0wn1k/n5-vlan-hop.git
+
+[submodule "n6-ip-spoof"]
+	path = n6-ip-spoof
+	url = https://github.com/5h4d0wn1k/n6-ip-spoof.git
+
+[submodule "n7-honeypot-detect"]
+	path = n7-honeypot-detect
+	url = https://github.com/5h4d0wn1k/n7-honeypot-detect.git
+
+[submodule "n8-mac-changer"]
+	path = n8-mac-changer
+	url = https://github.com/5h4d0wn1k/n8-mac-changer.git
+
+[submodule "n9-evil-twin-scan"]
+	path = n9-evil-twin-scan
+	url = https://github.com/5h4d0wn1k/n9-evil-twin-scan.git
+
+[submodule "p2-esp-now-sok"]
+	path = p2-esp-now-sok
+	url = https://github.com/5h4d0wn1k/p2-esp-now-sok.git
+
+[submodule "p4-xts-aes-sca"]
+	path = p4-xts-aes-sca
+	url = https://github.com/5h4d0wn1k/p4-xts-aes-sca.git
+
+[submodule "p5-phytbed"]
+	path = p5-phytbed
+	url = https://github.com/5h4d0wn1k/p5-phytbed.git
+
+[submodule "r1-traffic-analyzer"]
+	path = r1-traffic-analyzer
+	url = https://github.com/5h4d0wn1k/r1-traffic-analyzer.git
+
+[submodule "r2-malware-sigs"]
+	path = r2-malware-sigs
+	url = https://github.com/5h4d0wn1k/r2-malware-sigs.git
+
+[submodule "r3-vuln-correlate"]
+	path = r3-vuln-correlate
+	url = https://github.com/5h4d0wn1k/r3-vuln-correlate.git
+
+[submodule "se1-phishing"]
+	path = se1-phishing
+	url = https://github.com/5h4d0wn1k/se1-phishing.git
+
+[submodule "se2-osint"]
+	path = se2-osint
+	url = https://github.com/5h4d0wn1k/se2-osint.git
+
+[submodule "se3-pretext"]
+	path = se3-pretext
+	url = https://github.com/5h4d0wn1k/se3-pretext.git
+
+[submodule "se4-vishing"]
+	path = se4-vishing
+	url = https://github.com/5h4d0wn1k/se4-vishing.git
+
+[submodule "se5-physical-audit"]
+	path = se5-physical-audit
+	url = https://github.com/5h4d0wn1k/se5-physical-audit.git
+
+[submodule "w1-deauth-eng"]
+	path = w1-deauth-eng
+	url = https://github.com/5h4d0wn1k/w1-deauth-eng.git
+
+[submodule "w1-wifi-scanner"]
+	path = w1-wifi-scanner
+	url = https://github.com/5h4d0wn1k/w1-wifi-scanner.git
+
+[submodule "w10-wpa3-survey"]
+	path = w10-wpa3-survey
+	url = https://github.com/5h4d0wn1k/w10-wpa3-survey.git
+
+[submodule "w2-deauth-detect"]
+	path = w2-deauth-detect
+	url = https://github.com/5h4d0wn1k/w2-deauth-detect.git
+
+[submodule "w2-evil-twin"]
+	path = w2-evil-twin
+	url = https://github.com/5h4d0wn1k/w2-evil-twin.git
+
+[submodule "w3-probe-audit"]
+	path = w3-probe-audit
+	url = https://github.com/5h4d0wn1k/w3-probe-audit.git
+
+[submodule "w3-probe-resp"]
+	path = w3-probe-resp
+	url = https://github.com/5h4d0wn1k/w3-probe-resp.git
+
+[submodule "w4-crack-pipeline"]
+	path = w4-crack-pipeline
+	url = https://github.com/5h4d0wn1k/w4-crack-pipeline.git
+
+[submodule "w5-nrf-observer"]
+	path = w5-nrf-observer
+	url = https://github.com/5h4d0wn1k/w5-nrf-observer.git
+
+[submodule "w6-beacon-analysis"]
+	path = w6-beacon-analysis
+	url = https://github.com/5h4d0wn1k/w6-beacon-analysis.git
+
+[submodule "w6-beacon-flood"]
+	path = w6-beacon-flood
+	url = https://github.com/5h4d0wn1k/w6-beacon-flood.git
+
+[submodule "w7-deauth-capture"]
+	path = w7-deauth-capture
+	url = https://github.com/5h4d0wn1k/w7-deauth-capture.git
+
+[submodule "w7-wids-sensor"]
+	path = w7-wids-sensor
+	url = https://github.com/5h4d0wn1k/w7-wids-sensor.git
+
+[submodule "w8-covert-beacon"]
+	path = w8-covert-beacon
+	url = https://github.com/5h4d0wn1k/w8-covert-beacon.git
+
+[submodule "w8-evil-portal"]
+	path = w8-evil-portal
+	url = https://github.com/5h4d0wn1k/w8-evil-portal.git
+
+[submodule "w9-ble-spoofer"]
+	path = w9-ble-spoofer
+	url = https://github.com/5h4d0wn1k/w9-ble-spoofer.git
+
+[submodule "w9-resilient-tele"]
+	path = w9-resilient-tele
+	url = https://github.com/5h4d0wn1k/w9-resilient-tele.git
+
+[submodule "web1-sqli-auto"]
+	path = web1-sqli-auto
+	url = https://github.com/5h4d0wn1k/web1-sqli-auto.git
+
+[submodule "web10-webshell-gen"]
+	path = web10-webshell-gen
+	url = https://github.com/5h4d0wn1k/web10-webshell-gen.git
+
+[submodule "web11-cms-scan"]
+	path = web11-cms-scan
+	url = https://github.com/5h4d0wn1k/web11-cms-scan.git
+
+[submodule "web12-browser-exploit"]
+	path = web12-browser-exploit
+	url = https://github.com/5h4d0wn1k/web12-browser-exploit.git
+
+[submodule "web2-xss-scanner"]
+	path = web2-xss-scanner
+	url = https://github.com/5h4d0wn1k/web2-xss-scanner.git
+
+[submodule "web3-csrf-tool"]
+	path = web3-csrf-tool
+	url = https://github.com/5h4d0wn1k/web3-csrf-tool.git
+
+[submodule "web4-dirbrute"]
+	path = web4-dirbrute
+	url = https://github.com/5h4d0wn1k/web4-dirbrute.git
+
+[submodule "web5-subdomain"]
+	path = web5-subdomain
+	url = https://github.com/5h4d0wn1k/web5-subdomain.git
+
+[submodule "web6-http-smuggle"]
+	path = web6-http-smuggle
+	url = https://github.com/5h4d0wn1k/web6-http-smuggle.git
+
+[submodule "web7-xxe-inject"]
+	path = web7-xxe-inject
+	url = https://github.com/5h4d0wn1k/web7-xxe-inject.git
+
+[submodule "web8-ssti-scan"]
+	path = web8-ssti-scan
+	url = https://github.com/5h4d0wn1k/web8-ssti-scan.git
+
+[submodule "web9-cors-scan"]
+	path = web9-cors-scan
+	url = https://github.com/5h4d0wn1k/web9-cors-scan.git
+
+[submodule "x1-binrecon"]
+	path = x1-binrecon
+	url = https://github.com/5h4d0wn1k/x1-binrecon.git
+
+[submodule "x10-malware-classifier"]
+	path = x10-malware-classifier
+	url = https://github.com/5h4d0wn1k/x10-malware-classifier.git
+
+[submodule "x11-honeypot-stack"]
+	path = x11-honeypot-stack
+	url = https://github.com/5h4d0wn1k/x11-honeypot-stack.git
+
+[submodule "x12-ctf"]
+	path = x12-ctf
+	url = https://github.com/5h4d0wn1k/x12-ctf.git
+
+[submodule "x2-exploit-ladder"]
+	path = x2-exploit-ladder
+	url = https://github.com/5h4d0wn1k/x2-exploit-ladder.git
+
+[submodule "x3-iot-fuzzer"]
+	path = x3-iot-fuzzer
+	url = https://github.com/5h4d0wn1k/x3-iot-fuzzer.git
+
+[submodule "x4-hack-toolkit"]
+	path = x4-hack-toolkit
+	url = https://github.com/5h4d0wn1k/x4-hack-toolkit.git
+
+[submodule "x5-mitm-suite"]
+	path = x5-mitm-suite
+	url = https://github.com/5h4d0wn1k/x5-mitm-suite.git
+
+[submodule "x6-ml-siem"]
+	path = x6-ml-siem
+	url = https://github.com/5h4d0wn1k/x6-ml-siem.git
+
+[submodule "x7-kernel-monitor"]
+	path = x7-kernel-monitor
+	url = https://github.com/5h4d0wn1k/x7-kernel-monitor.git
+
+[submodule "x8-nids"]
+	path = x8-nids
+	url = https://github.com/5h4d0wn1k/x8-nids.git
+
+[submodule "x9-mitm-detectors"]
+	path = x9-mitm-detectors
+	url = https://github.com/5h4d0wn1k/x9-mitm-detectors.git
+
