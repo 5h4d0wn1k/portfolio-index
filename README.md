@@ -1,6 +1,6 @@
 # 5h4d0wn1k — Cybersecurity Portfolio Index
 
-Index and single-entry-point for the **146-repo** offensive & defensive security portfolio. Every repo is an independent, MIT-licensed, authorized-use-only tool with a working engine, an offline demo, and its own unit tests.
+Index and single-entry-point for the **146-repo** offensive & defensive security portfolio plus a **24-suite flagship tier** (incl. two agentic-AI suites). Every repo is an independent, MIT-licensed, authorized-use-only tool with a working engine, an offline demo, and its own unit tests.
 
 > **IMPORTANT: Read before use.** All software in this portfolio is for **authorized security education and testing only** — your own networks, systems, and hardware, or systems you have explicit written permission to assess. Unauthorized access attempts may violate the Computer Fraud and Abuse Act (18 U.S.C. §1030) and local law. Use responsibly. No warranty is provided; the authors assume no liability for misuse.
 
@@ -8,13 +8,54 @@ Index and single-entry-point for the **146-repo** offensive & defensive security
 
 | Metric | Value |
 |---|---|
-| Repositories | **146** |
+| Base repositories | **146** |
+| Flagship suites | **24** (incl. 2 agentic-AI) |
+| Total repositories | **170** |
 | Security domains | **16** |
-| Automated unit tests | **2135** |
-| Python/firmware source files | **559** |
+| Automated unit tests (base) | **2135** |
+| Flagship unit tests | **2212** |
+| Python/firmware source files (base) | **559** |
 | License | MIT (all repos) |
 | Legal disclaimer | All READMEs |
 | Hardware projects (Arduino/ESP32) | 22 |
+
+## Flagship Tier (production-grade suites)
+
+Each flagship is a standalone repo under `5h4d0wn1k/<name>` with its own legal kit, `METRICS.md`, a Live Lab Test Plan, and an offline exit-0 demo. `git clone --recursive` this repo to pull them alongside the base portfolio.
+
+### Offensive (16)
+
+| Repo | Domain | Proof |
+|---|---|---|
+| [aiarsenal](https://github.com/5h4d0wn1k/aiarsenal) | Adversarial AI/ML studio | poisoning/extraction/inversion/FL/evasion/prompt-inject + agentic red-team; 29 tests |
+| [webbreach](https://github.com/5h4d0wn1k/webbreach) | Web exploitation framework | 14 engines (OWASP Top-10 + fuzzer) vs built-in vuln targets; 62 findings; 24 tests |
+| [netpwn](https://github.com/5h4d0wn1k/netpwn) | L2/L3 MITM suite | ARP/DHCP/DNS/VLAN/spoof/knock/pcap one CLI; real loopback intercept; 132 tests |
+| [wiair](https://github.com/5h4d0wn1k/wiair) | Wireless offensive (802.11/BLE) | byte-exact frame craft, deauth, evil-twin, PMKID→hashcat pipeline; 99 tests |
+| [cryptocrack](https://github.com/5h4d0wn1k/cryptocrack) | Crypto + credential cracking | pure-python crypts, RSA (Wiener/Hastad/Fermat), padding oracle, CPA; 97 tests |
+| [malforge](https://github.com/5h4d0wn1k/malforge) | Malware / RE workstation | ELF/PE/Mach-O, /proc sandbox, YARA-gen, bin-diff, shellcode codec; 104 tests |
+| [exploitcraft](https://github.com/5h4d0wn1k/exploitcraft) | Exploit development | gcc vuln-lab, De Bruijn, PTRACE crash, ROP chains, fuzzer; 65 tests |
+| [cloudpwn](https://github.com/5h4d0wn1k/cloudpwn) | Cloud/container pentest | mock AWS/GCP/Azure/K8s/Vault; CSPM attack path; 86 tests |
+| [mobsek](https://github.com/5h4d0wn1k/mobsek) | Mobile security | AXML/DEX/Mach-O, cert, threat-score 71, Frida hooks; 129 tests |
+| [iotbreach](https://github.com/5h4d0wn1k/iotbreach) | IoT/SCADA/embedded | MQTT/CoAP/UPnP/Modbus/CAN/BLE/Zigbee/433 + kill-chain sim; 137 tests |
+| [grainrecon](https://github.com/5h4d0wn1k/grainrecon) | Recon / attack-surface | subdomain/port/tech/fuzz/drift vs local fixtures; 107 tests |
+| [sprayshed](https://github.com/5h4d0wn1k/sprayshed) | Credential orchestrator | spray+brute vs localhost sims; dry-run 0 auth; lockout-safe; 85 tests |
+| [hermesc2](https://github.com/5h4d0wn1k/hermesc2) | C2 framework (lab) | AES-GCM loopback C2, agent beacon, killswitch; 502/502 beacons; 72 tests |
+| [postpwn](https://github.com/5h4d0wn1k/postpwn) | Post-exploitation (lab) | sandbox persistence implants, privesc audit, tunnel, dwell; 127 tests |
+| [socialforge](https://github.com/5h4d0wn1k/socialforge) | Social engineering (hard-gated) | consent-locked campaigns, CANT_SEND enforced; 73 tests |
+| [rogueai](https://github.com/5h4d0wn1k/rogueai) | **Agentic AI red team** | autonomous plan→act→reflect; LLM-optional/rule fallback; scope+approval gates; 132 tests |
+
+### Defensive / Purple (8)
+
+| Repo | Domain | Proof |
+|---|---|---|
+| [honeynet](https://github.com/5h4d0wn1k/honeynet) | Honeypot farm + deception | SSH/HTTP/Telnet/MQTT/MCP pots; 9/9 sim actions detected; 100 tests |
+| [netsentinel](https://github.com/5h4d0wn1k/netsentinel) | Detection suite (NIDS/SIEM/kernel) | rules+ML anomaly, ARP-spoof, kernel-watch, kill-chain incident; 132 tests |
+| [endpointaegis](https://github.com/5h4d0wn1k/endpointaegis) | EDR-lite / hardening auditor | 92 vs 31 score, drift baseline, HTML reports; 72 tests |
+| [forensicsiso](https://github.com/5h4d0wn1k/forensicsiso) | Full DFIR workstation | disk/reg/browser/email + timeline + correlation; 51 tests |
+| [supplysec](https://github.com/5h4d0wn1k/supplysec) | Supply-chain gate | SBOM (CycloneDX/SPDX), advisory match, policy gate, PQC; 106 tests |
+| [zerotrustmirror](https://github.com/5h4d0wn1k/zerotrustmirror) | ZTA + correlation | 7-pillar scores, evidence-cited, multi-channel correlation; 71 tests |
+| [airguard](https://github.com/5h4d0wn1k/airguard) | Wireless defense | deauth/evil-twin/rogue-AP WIDS, posture scan, jammer detect; 107 tests |
+| [sentinai](https://github.com/5h4d0wn1k/sentinai) | **Agentic AI SOC copilot** | autonomous ingest→detect→contain→incident; 9 TP/0 FP; LLM-optional; 81 tests |
 
 ## Repository Index
 
@@ -249,4 +290,4 @@ Each entry below is a git submodule. `git clone --recursive` this repo to pull t
 
 ---
 
-*Auto-generated by the portfolio index toolchain. 146 repos, 5h4d0wn1k.*
+*Auto-generated by the portfolio index toolchain. 146 base repos + 24 flagship suites = 170 repos, 5h4d0wn1k.*

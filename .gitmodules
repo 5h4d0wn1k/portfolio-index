@@ -582,3 +582,99 @@
 	path = x9-mitm-detectors
 	url = https://github.com/5h4d0wn1k/x9-mitm-detectors.git
 
+
+[submodule "aiarsenal"]
+	path = aiarsenal
+	url = https://github.com/5h4d0wn1k/aiarsenal.git
+
+[submodule "webbreach"]
+	path = webbreach
+	url = https://github.com/5h4d0wn1k/webbreach.git
+
+[submodule "netpwn"]
+	path = netpwn
+	url = https://github.com/5h4d0wn1k/netpwn.git
+
+[submodule "wiair"]
+	path = wiair
+	url = https://github.com/5h4d0wn1k/wiair.git
+
+[submodule "cryptocrack"]
+	path = cryptocrack
+	url = https://github.com/5h4d0wn1k/cryptocrack.git
+
+[submodule "malforge"]
+	path = malforge
+	url = https://github.com/5h4d0wn1k/malforge.git
+
+[submodule "exploitcraft"]
+	path = exploitcraft
+	url = https://github.com/5h4d0wn1k/exploitcraft.git
+
+[submodule "cloudpwn"]
+	path = cloudpwn
+	url = https://github.com/5h4d0wn1k/cloudpwn.git
+
+[submodule "mobsek"]
+	path = mobsek
+	url = https://github.com/5h4d0wn1k/mobsek.git
+
+[submodule "iotbreach"]
+	path = iotbreach
+	url = https://github.com/5h4d0wn1k/iotbreach.git
+
+[submodule "grainrecon"]
+	path = grainrecon
+	url = https://github.com/5h4d0wn1k/grainrecon.git
+
+[submodule "sprayshed"]
+	path = sprayshed
+	url = https://github.com/5h4d0wn1k/sprayshed.git
+
+[submodule "hermesc2"]
+	path = hermesc2
+	url = https://github.com/5h4d0wn1k/hermesc2.git
+
+[submodule "postpwn"]
+	path = postpwn
+	url = https://github.com/5h4d0wn1k/postpwn.git
+
+[submodule "socialforge"]
+	path = socialforge
+	url = https://github.com/5h4d0wn1k/socialforge.git
+
+[submodule "honeynet"]
+	path = honeynet
+	url = https://github.com/5h4d0wn1k/honeynet.git
+
+[submodule "netsentinel"]
+	path = netsentinel
+	url = https://github.com/5h4d0wn1k/netsentinel.git
+
+[submodule "endpointaegis"]
+	path = endpointaegis
+	url = https://github.com/5h4d0wn1k/endpointaegis.git
+
+[submodule "forensicsiso"]
+	path = forensicsiso
+	url = https://github.com/5h4d0wn1k/forensicsiso.git
+
+[submodule "supplysec"]
+	path = supplysec
+	url = https://github.com/5h4d0wn1k/supplysec.git
+
+[submodule "zerotrustmirror"]
+	path = zerotrustmirror
+	url = https://github.com/5h4d0wn1k/zerotrustmirror.git
+
+[submodule "airguard"]
+	path = airguard
+	url = https://github.com/5h4d0wn1k/airguard.git
+
+[submodule "rogueai"]
+	path = rogueai
+	url = https://github.com/5h4d0wn1k/rogueai.git
+
+[submodule "sentinai"]
+	path = sentinai
+	url = https://github.com/5h4d0wn1k/sentinai.git
