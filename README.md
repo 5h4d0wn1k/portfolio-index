@@ -4,6 +4,8 @@ Index and single-entry-point for the **146-repo** offensive & defensive security
 
 > **IMPORTANT: Read before use.** All software in this portfolio is for **authorized security education and testing only** — your own networks, systems, and hardware, or systems you have explicit written permission to assess. Unauthorized access attempts may violate the Computer Fraud and Abuse Act (18 U.S.C. §1030) and local law. Use responsibly. No warranty is provided; the authors assume no liability for misuse.
 
+> **Ethics:** the intent-and-scope foundation of this portfolio — authorized-targets rule, safety-by-default, and responsible disclosure — is documented in **[ETHICS.md](ETHICS.md)**. Every repo defers to it.
+
 ## Portfolio Metrics
 
 | Metric | Value |
