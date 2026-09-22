@@ -678,3 +678,25 @@
 [submodule "sentinai"]
 	path = sentinai
 	url = https://github.com/5h4d0wn1k/sentinai.git
+
+[submodule "crownjewel"]
+	path = crownjewel
+	url = https://github.com/5h4d0wn1k/crownjewel.git
+
+[submodule "toxindb"]
+	path = toxindb
+	url = https://github.com/5h4d0wn1k/toxindb.git
+
+[submodule "sentinelwall"]
+	path = sentinelwall
+	url = https://github.com/5h4d0wn1k/sentinelwall.git
+[submodule "mythicforge"]
+	path = mythicforge
+	url = https://github.com/5h4d0wn1k/mythicforge.git
+[submodule "shadowvault"]
+	path = shadowvault
+	url = https://github.com/5h4d0wn1k/shadowvault.git
+
+[submodule "cybersecurity-framework"]
+	path = cybersecurity-framework
+	url = https://github.com/5h4d0wn1k/cybersecurity-framework.git
