@@ -25,6 +25,15 @@ Index and single-entry-point for the **146-repo** offensive & defensive security
 
 Each flagship is a standalone repo under `5h4d0wn1k/<name>` with its own legal kit, `METRICS.md`, a Live Lab Test Plan, and an offline exit-0 demo. `git clone --recursive` this repo to pull them alongside the base portfolio.
 
+## 🗺️ The Map — [cybersecurity-framework](https://github.com/5h4d0wn1k/cybersecurity-framework)
+
+The **navigation hub**: an OSINT-Framework-style interactive tree of the entire field —
+**27 domains, 133 categories, 433 curated tools** across offense and defense (recon, exploit,
+web, wireless, passwords, OSINT, C2, AD, malware, forensics, blue team, threat intel,
+honeypots, purple team, hardening, crypto, cloud, mobile, IoT, appsec, containers, red team).
+Each tool rates effort, gives real install lines, and a honest "when to use it". Live at
+[https://5h4d0wn1k.github.io/cybersecurity-framework/](https://5h4d0wn1k.github.io/cybersecurity-framework/).
+
 ### Offensive (16)
 
 | Repo | Domain | Proof |
