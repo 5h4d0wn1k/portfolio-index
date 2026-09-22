@@ -1,3 +1,9 @@
+> **⚠️ EDUCATIONAL USE ONLY — AUTHORIZED TESTING ONLY.**
+> This project exists for education, research, and **defense of systems you own
+> or hold explicit written authorization to assess**. Unauthorized use is
+> prohibited and may be illegal. Read [ETHICS.md](ETHICS.md) and
+> [SCOPE.md](SCOPE.md) before use. Use at your own risk; **AS IS**, no warranty.
+
 # 5h4d0wn1k — Cybersecurity Portfolio Index
 
 Index and single-entry-point for the **146-repo** offensive & defensive security portfolio plus a **24-suite flagship tier** (incl. two agentic-AI suites). Every repo is an independent, MIT-licensed, authorized-use-only tool with a working engine, an offline demo, and its own unit tests.
